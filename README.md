@@ -1,6 +1,7 @@
 # Hi there 👋, my name is Adrián Ocaña
 
-## Junior Backend Developer
+### Junior Backend Developer
+##Skills
 <!--
 **ocania/ocania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ### Find me at:
-Linkedin
+https://img.shields.io/badge/LinkedIn-blue
