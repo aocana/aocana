@@ -2,7 +2,7 @@
 
 ### Junior Backend Developer
 
-##Skills
+## Skills
 <!--
 **ocania/ocania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 ### Find me at:
 [![Linkedin](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adrianocana)
 ![Twitter](https://img.shields.io/badge/Twitter-blue)
+
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
