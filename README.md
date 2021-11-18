@@ -12,9 +12,9 @@
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 <br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 <!--
 **ocania/ocania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
