@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ### Find me at:
-https://img.shields.io/badge/LinkedIn-blue
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue)
+
