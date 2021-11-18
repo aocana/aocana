@@ -3,7 +3,8 @@
 ### Junior Backend Developer
 
 ## Skills
-[![PHP](https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()</br>
+
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 <!--
 **ocania/ocania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
