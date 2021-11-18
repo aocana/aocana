@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 -->
 
 ### Find me at:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Adrian_Ocana?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adrianocana)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Adrian_Ocana?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/adrianocana)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adrianocana)
 
 
 
