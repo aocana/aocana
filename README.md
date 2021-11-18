@@ -3,8 +3,8 @@
 ### Junior Backend Developer
 
 ## Skills
-[![HTML](https://img.shields.io/badge/HTML5-4479A1?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-4479A1?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML5-4479A1?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-4479A1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()</br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
