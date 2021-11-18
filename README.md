@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ### Find me at:
-![Linkedin](https://img.shields.io/badge/LinkedIn-blue)(www.linkedin.com/in/adrianocana)
-[![YouTube](https://img.shields.io/badge/LinkedIn-blue)](https://youtube.com/mouredevapps)
+![Linkedin](https://img.shields.io/badge/LinkedIn-blue)(https://www.linkedin.com/in/adrianocana)
 ![Twitter](https://img.shields.io/badge/Twitter-blue)
 
