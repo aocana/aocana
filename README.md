@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Adrián Ocaña
 
 ### Junior Backend Developer
-
+<br><br><br>
 
 ### Programming
 [![PHP](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
@@ -20,7 +20,7 @@
 ### Database
 [![MySQL](https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-<br><br>
+<br><br><br>
 
 
 <!--
