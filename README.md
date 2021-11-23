@@ -3,7 +3,7 @@
 ### Junior Backend Developer
 
 
-## Programming
+### Programming
 [![PHP](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-336c9b?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -11,13 +11,13 @@
 [![CSS3](https://img.shields.io/badge/CSS3-0091d5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 </br>
 
-## Frameworks and tools
+### Frameworks and tools
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-1295c2?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-f05030?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 <br>
 
-## Database
+### Database
 [![MySQL](https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 <br>
