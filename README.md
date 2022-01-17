@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Adrián Ocaña
+# Hi there 👋, I'm Adrián Ocaña
 
 ### Junior Backend Developer
 <br>
@@ -11,8 +11,10 @@
 [![CSS3](https://img.shields.io/badge/CSS3-0091d5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 </br>
 
-### Frameworks and tools
+### Frameworks
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+<br>
+###Tools
 [![Docker](https://img.shields.io/badge/Docker-1295c2?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-f05030?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 <br>
