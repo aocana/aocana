@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Hi there 👋, I'm Adrián Ocaña<h1>
+# Hi there 👋, I'm Adrián Ocaña<h1>
 
 ### Junior Backend Developer
 
