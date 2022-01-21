@@ -1,7 +1,6 @@
-<h1 style="align-text:center;">Hi there 👋, I'm Adrián Ocaña<h1>
-
+<h1 style="text-align:center;">Hi there 👋, I'm Adrián Ocaña<h1>
 ### Junior Backend Developer
-<br>
+
 
 ### Programming
 [![PHP](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
