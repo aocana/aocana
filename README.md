@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Adrián Ocaña
-### Junior Backend Developer
 
 
 ### Programming
