@@ -14,15 +14,17 @@ Desarrollador Web Junior actualmente más enfocado en el área del Backend.
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 <br>
 
+### Bases de datos
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+<br><br><br>
+
+
 ### Herramientas
 [![Docker](https://img.shields.io/badge/Docker-1295c2?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-f05030?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 <br>
 
-### Bases de datos
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-<br><br><br>
 
 
 <!--
