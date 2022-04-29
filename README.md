@@ -1,6 +1,6 @@
 # 👋 Hola, soy Adrián Ocaña
 
-Desarrollador Web Junior actualmente con perfil Backend.
+Desarrollador Web Junior.
 
 ### Lenguajes
 [![PHP](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
